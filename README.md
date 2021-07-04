@@ -27,7 +27,9 @@ urlFragment: "NA"
 
 | File/folder                     　　　　　| Description                                              |
 |------------------------------------------|----------------------------------------------------------|
-| `xxxxx`   　　　　　|Power Apps Unmanaged Solution File                        |
+| `workplace_vaccination_1_0_0_11.zip`   　　　　　|Power Apps Unmanaged Solution File                        |
+| `workplace_vaccination_security_role_1_0_0_1.zip`   　　　　　|Power Apps Unmanaged Solution File                        |
+| `職域接種予約アプリ導入手順書.pdf`                              | 導入手順書                                        |
 | `README.md`                              | This README file.                                        |
 | `LICENSE`                                | The license for the sample.                              |
 
@@ -40,6 +42,7 @@ urlFragment: "NA"
 
 本サンプルでは、Power Apps アプリのセットアップが必要になります。
 Zipファイルをアンマネージドソリューションとして登録しています。こちらのアンマネージソリューションをソリューションのインポートでPower Appsの環境に登録をしてご利用ください。
+詳細なセットアップ手順は同梱の導入手順書をご参照下さい。
 
 ## Running the sample
 
