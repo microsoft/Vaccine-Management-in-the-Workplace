@@ -39,9 +39,9 @@ urlFragment: "NA"
 本サンプルは、Microsoft Power Apps上で動作します。
 そのため、必要なライセンスもしくは評価環境のテナントを取得し評価を行っていただく必要があります。
 本サンプルはDataverse for Teams、またはDataverseどちらかの環境を利用をして展開をします。
-Datavese for Teamsで展開する場合、一部機能制限があります為、必要な機能や要件に応じて、適切なライセンスをご用意下さい。（本テンプレートにおける機能差は導入手順書に記載）
+Dataverse for Teamsで展開する場合、一部機能制限があります為、必要な機能や要件に応じて、適切なライセンスをご用意下さい。（本テンプレートにおける機能差は導入手順書に記載）
 
-[Datavese for TeamsとDataverseの機能比較](https://docs.microsoft.com/ja-jp/powerapps/teams/data-platform-compare)
+[Dataverse for TeamsとDataverseの機能比較](https://docs.microsoft.com/ja-jp/powerapps/teams/data-platform-compare)
 
 ## セットアップ
 
@@ -52,7 +52,7 @@ Zipファイルをアンマネージドソリューションとして登録し�
 ## サンプルの実行
 
 サンプルの実行については、ソリューションファイルをインポート後、一般的なPower Apps のアプリケーションと同様に利用を行う事が可能です。
-Dataveser for Teamsに展開した場合は、Teams上でのみ実行が可能となります。
+Dataverse for Teamsに展開した場合は、Teams上でのみ実行が可能となります。
 
 ## 構成内容
 本テンプレートは下記の要素にて構成されています。
@@ -66,10 +66,10 @@ Power Apps ソリューションファイルには次の内容が含まれてい
  - その他構成ファイル
 
 ## 展開・利用に必要な項目
-本テンプレートを展開・利用するにはDataveser for Teamsを利用できるMicrosoft Teamsのライセンス、もしくはDataveseが利用できるPower Appsライセンスが必要です。詳しくは下記をご参照下さい。  
+本テンプレートを展開・利用するにはDataverse for Teamsを利用できるMicrosoft Teamsのライセンス、もしくはDataverseが利用できるPower Appsライセンスが必要です。詳しくは下記をご参照下さい。  
 https://powerapps.microsoft.com/ja-jp/pricing/
 
-[Datavese for TeamsとDataverseの機能比較](https://docs.microsoft.com/ja-jp/powerapps/teams/data-platform-compare)
+[Dataverse for TeamsとDataverseの機能比較](https://docs.microsoft.com/ja-jp/powerapps/teams/data-platform-compare)
 
 ## 必要なPower Platformの環境
 本ソリューションは、Microsoft Teamsライセンスに包含される Dataverse for Teams環境、もしくはPower Appsの有償ライセンスに含まれるDataverse環境へ展開が可能です。
